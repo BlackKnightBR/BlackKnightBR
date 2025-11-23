@@ -2,7 +2,6 @@
 - 👀 I’m interested in artificial intelligence and robotics
 - 🌱 I’m currently learning Neural Networks with python
 - 💞️ I’m looking to collaborate on AI
-- 📫 How to reach me contato@blackknightstudio.com.br
 ---
   Prazer eu sou o Rodrigo, desenvolvedor web full stack. Minha carreira começou na faculdade de ciência da computação, quando em 2014 nosso time de desenvolvimento web
 ganhou o terceiro lugar no prêmio nacional de inovação na gestão universitária professor João David Ferreira Lima, logo que deixei a faculdade em 2016 eu fiz alguns cursos
